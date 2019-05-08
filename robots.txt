@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soochuath.dewetblomerus.com/sitemap.xml
